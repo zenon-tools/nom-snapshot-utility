@@ -1,0 +1,7 @@
+name: nom_snapshot_utility
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  settings_yaml: ^3.4.0
